@@ -1,0 +1,25 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+.inputBox{
+    display: block;
+    margin: 5px;
+    padding: 2px;
+    width: 300px;
+    border: 1px solide  #61dafb;
+    
+}
+button{
+    cursor: pointer;
+    margin: 2px;
+    padding: 2px;
+    width: 100px;
+    height: 20px;
+    background-color:  #8df0cc;
+    border: 1px solid black;
+    border-radius: 10px;
+}

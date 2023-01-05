@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 5px;
+    width: 150px;
+}
+
+.product-list ul{
+    margin: 0px;
+}
+
+.search-product-box{
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid skyblue;
+    border-radius: 15px;
+
+}
+button{
+    cursor: pointer;
+    margin: 2px;
+    padding: 2px;
+    width: 100px;
+    height: 20px;
+    background-color:  #8df0cc;
+    border: 1px solid black;
+    border-radius: 10px;
+}
